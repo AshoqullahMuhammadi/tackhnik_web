@@ -1,0 +1,18 @@
+# TAKHNIK
+
+TAKHNIK designs connected software systems for complex business operations, including management information systems, custom business platforms, workflow automation, web and mobile applications, integrations, and legacy modernization.
+
+## Canonical pages
+- /services
+- /services/management-information-systems
+- /services/custom-software-development
+- /services/workflow-automation
+- /services/web-mobile-apps
+- /services/integrations-modernization
+- /process
+- /about
+- /work
+- /insights
+- /contact
+
+Only published canonical pages on this domain should be treated as authoritative. Capability scenarios are illustrative and are not verified client case studies.
